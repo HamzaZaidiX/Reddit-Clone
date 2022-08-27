@@ -1,4 +1,4 @@
-# Reddit-Clone
+# Reddit-Clone <img src="https://user-images.githubusercontent.com/52501040/187037052-96038786-673e-40f7-9f29-931702f4bd69.PNG" width="40" height="40" align="center" alt="Reddit icon" />
 
 ## Introduction:
 
