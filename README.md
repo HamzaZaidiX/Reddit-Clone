@@ -15,7 +15,7 @@
 ## 🧮 Screenshots:
 
 ![reddit_ss1](https://user-images.githubusercontent.com/52501040/187036576-90fe2e7e-4494-4493-97eb-81324eff8605.PNG)
-![reddit_ss](https://user-images.githubusercontent.com/52501040/187036579-35ee49b3-2cd5-4949-8abc-9902f831f874.PNG)
+img src="https://user-images.githubusercontent.com/52501040/187036579-35ee49b3-2cd5-4949-8abc-9902f831f874.PNG" width="100" alt="screenshot />
 
 ## 🧮 Quick Start:
 First you need to go `Replit` and Fork my `Repl` and run the repl with
