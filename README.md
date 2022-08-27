@@ -4,7 +4,7 @@
 
 **Reddit which is a famous blogging website inspires me to build a Reddit Clone** with `Next JS &amp; Tailwind CSS` with the help of [`Supabase`](https://supabase.com/) used as database which is really great browser database with** realtime functionalities** and **easy to use & easily to push or pull data from backend also known as** `PostgreSQL Database`.
 
-![red](https://user-images.githubusercontent.com/52501040/187037013-fd40f023-0a2a-4fab-8f36-d617a0352502.PNG)
+<img src="https://user-images.githubusercontent.com/52501040/187037052-96038786-673e-40f7-9f29-931702f4bd69.PNG" width="100" height="100" align="center" alt="Reddit icon" />
 
 ## Features:
 - [x] You can use Authentication with your Google Account to Login this App
